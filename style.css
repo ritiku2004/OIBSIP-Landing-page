@@ -1,0 +1,78 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+section
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    background-image: url("bg.jpg");
+    
+}
+.logo
+{
+    width: 100%;
+    margin-top: 30px;
+}
+img
+{
+    height: 80px;
+    font-weight: 600;
+}
+.top
+{
+    font-size: 37px;
+    width: 100%;
+    backdrop-filter: blur(2px);
+}
+.moto
+{
+    font-size: 55px;
+    font-weight: 600;
+    width: 100%;
+    backdrop-filter: blur(2px);
+}
+.foot
+{
+    font-size: 30px;
+    width: 100%;
+    backdrop-filter: blur(2px);
+}
+.btn
+{
+    width: 100%;
+    backdrop-filter: blur(2px);
+}
+button
+{
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    border: none;
+    border-radius: 7px;
+    margin: 30px;
+}
+.group
+{
+    background-color: purple;
+    color: white;
+}
+.group:hover
+{
+    background-color: blueviolet;
+    color: black;
+}
+.contact
+{
+    background-color: antiquewhite;
+    color: black;
+}
+.contact:hover
+{
+    background-color: azure;
+}
