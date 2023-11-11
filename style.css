@@ -59,6 +59,10 @@ button
     margin-right: 30px;
     margin-bottom: 10px;
 }
+a
+{
+    text-decoration:none;
+}
 .group
 {
     background-color: purple;
